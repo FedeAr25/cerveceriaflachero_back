@@ -15,13 +15,10 @@ documentación OpenAPI.
 
 | Nombre y apellido | Legajo | Rol |
 |---|---|---|
-| <!-- completar --> | <!-- completar --> | <!-- completar --> |
-| <!-- completar --> | <!-- completar --> | <!-- completar --> |
-| <!-- completar --> | <!-- completar --> | <!-- completar --> |
-| <!-- completar --> | <!-- completar --> | <!-- completar --> |
+| Federico Arballo | No informado | Backend / Frontend |
+| Emanuel Cepeda Caceres | No informado | Backend / Frontend |
 
-> Completar esta tabla antes de la entrega. El repositorio y la gestión de
-> ramas los administra el grupo.
+> El repositorio y la gestión de ramas los administra el grupo.
 
 ## Stack y versiones
 
